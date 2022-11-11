@@ -1,2 +1,4 @@
-package one.dio.oo;public class Aluno {
+package one.dio.oo;
+
+public class Aluno {
 }

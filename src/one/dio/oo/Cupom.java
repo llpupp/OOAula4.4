@@ -1,2 +1,4 @@
-package one.dio.oo;public class Cupom {
+package one.dio.oo;
+
+public class Cupom {
 }

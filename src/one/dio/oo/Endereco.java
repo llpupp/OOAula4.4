@@ -1,2 +1,4 @@
-package one.dio.oo;public class Endereco {
+package one.dio.oo;
+
+public class Endereco {
 }
